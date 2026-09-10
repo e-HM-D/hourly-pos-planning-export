@@ -1,0 +1,3 @@
+interface:
+  display_name: "Hourly POS Planning Export"
+  short_description: "Format MAX hourly POS exports for planning sessions"
